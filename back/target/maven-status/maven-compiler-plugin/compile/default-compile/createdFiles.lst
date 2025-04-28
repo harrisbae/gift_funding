@@ -1,0 +1,16 @@
+com/giftfunding/api/dto/LoginRequest.class
+com/giftfunding/api/exceptions/InvalidCredentialsException.class
+com/giftfunding/api/dto/ApiResponse.class
+com/giftfunding/api/config/SecurityConfig.class
+com/giftfunding/api/exceptions/InvalidInputException.class
+com/giftfunding/api/services/UserService.class
+com/giftfunding/api/dto/LoginResponse.class
+com/giftfunding/api/utils/JwtUtil.class
+com/giftfunding/api/exceptions/DuplicateEmailException.class
+com/giftfunding/api/dto/RegisterRequest.class
+com/giftfunding/api/controllers/UserController.class
+com/giftfunding/api/repositories/UserRepository.class
+com/giftfunding/api/GiftFundingApiApplication.class
+com/giftfunding/api/entities/User.class
+com/giftfunding/api/services/AuthService.class
+com/giftfunding/api/controllers/AuthController.class

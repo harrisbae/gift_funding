@@ -1,0 +1,16 @@
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/controllers/AuthController.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/services/AuthService.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/config/SecurityConfig.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/dto/RegisterRequest.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/exceptions/DuplicateEmailException.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/dto/ApiResponse.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/exceptions/InvalidCredentialsException.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/controllers/UserController.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/dto/LoginRequest.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/entities/User.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/dto/LoginResponse.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/GiftFundingApiApplication.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/exceptions/InvalidInputException.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/repositories/UserRepository.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/utils/JwtUtil.java
+/Users/harris.bae/Desktop/projects/gift_funding/back/src/main/java/com/giftfunding/api/services/UserService.java

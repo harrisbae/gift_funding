@@ -1,0 +1,5 @@
+com/giftfunding/api/dto/RegisterRequestTest.class
+com/giftfunding/api/controllers/AuthControllerTest.class
+com/giftfunding/api/services/UserServiceTest.class
+com/giftfunding/api/services/AuthServiceTest.class
+com/giftfunding/api/controllers/UserControllerTest.class
